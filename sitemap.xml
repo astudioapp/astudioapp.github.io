@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://astudioapp.com/</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>2.00</priority>
+    </url>
+    <url>
+        <loc>https://astudioapp.com/chemistry</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.50</priority>
+    </url>
+    <url>
+        <loc>https://astudioapp.com/cs</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.50</priority>
+    </url>
+    <url>
+        <loc>https://astudioapp.com/maths</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.50</priority>
+    </url>
+    <url>
+        <loc>https://astudioapp.com/physics</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.50</priority>
+    </url>
+    <url>
+        <loc>https://astudioapp.com/physics/article/Calculating%20Energy%20Transferred%20from%20Charge%20and%20Voltage.html</loc>
+        <lastmod>2021-02-15T11:38:42+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+</urlset>
